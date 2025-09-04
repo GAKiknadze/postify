@@ -1,5 +1,6 @@
 site_name: Postify
 site_url: https://gakiknadze.github.io/postify/
 repo_url: https://github.com/GAKiknadze/postify
+repo_name: GAKiknadze/postify
 theme:
   name: material
