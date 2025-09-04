@@ -1,0 +1,4 @@
+site_name: Postify
+site_url: https://gakiknadze.github.io/postify/
+theme:
+  name: material
